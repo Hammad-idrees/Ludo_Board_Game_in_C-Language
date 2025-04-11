@@ -22,7 +22,11 @@ Use strategy to avoid being sent back and aim for the finish line!
 Run It Now:
 -------------------------------------------------------------------------------------------------------------
 $ git clone https://github.com/Hammad-idrees/Ludo_Board_Game_in_C-Language.git
+
 $ cd Ludo_Board_Game_in_C-Language
+
 $ gcc -o ludo_game ludo_game.c -lpthread
+
 $ ./ludo_game
+
 Ready to roll the dice? Play now and become the ultimate Ludo champion! 🎲
